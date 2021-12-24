@@ -3,7 +3,7 @@
 
 How to play:
 
-Try to retrace the exact paatern to win the gane ,in new level new layer to the pattern is added.
+Try to retrace the exact pattern to win the gane ,in new level new layer to the pattern is added.
 
 Made using :
 
